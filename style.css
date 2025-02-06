@@ -63,3 +63,9 @@ img{
 .boxbox {
     width: 600px;
 }
+
+header {
+    padding: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
